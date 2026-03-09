@@ -25,3 +25,4 @@ A ferramenta permite ao usuário criar visualizações informativas para anális
 
 Este repositório é um pilar da formação em **Ciência de Dados (SENAI)**, demonstrando proficiência técnica na biblioteca mais utilizada no mercado para visualização de dados.
 
+ 
